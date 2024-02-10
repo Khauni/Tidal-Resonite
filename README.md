@@ -20,6 +20,7 @@ sys
 os
 requests
 coverpy
+colorama
 ```
 ## Usage
 
