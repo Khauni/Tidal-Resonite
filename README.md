@@ -1,5 +1,5 @@
 # Tidal-Resonite
-A Python Program that sends Current Tidal Song info &amp; name over a websocket into resonite!
+A Python Program that sends Current Tidal Song info over a websocket into resonite!
 
 ## Note
 ⚠️ This is purely a side project and not maintained fully. Any concerns open up a issue and ill do my best to respond
