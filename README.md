@@ -26,4 +26,9 @@ colorama
 
 Just be sure to have all needed packages installed and feel free to run it in your preffered terminal,Once done go to "Kage's Repository" in resonite and spawn out the newest version of my player and edit the websocket slot to have YOUR user ID. Once done save a copy and it should connect
 
-## Uses Port 1050
+Uses Port: 1050
+
+## Kage's Repository Link
+```
+resrec:///U-kagedreemurr/R-aca227c5-59a1-4c5c-a220-b5712e72fb22
+```
