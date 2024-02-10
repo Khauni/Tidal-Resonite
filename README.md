@@ -23,6 +23,6 @@ coverpy
 ```
 ## Usage
 
-Just be sure to have all needed packages installed and feel free to run it in your preffered terminal.
+Just be sure to have all needed packages installed and feel free to run it in your preffered terminal,Once done go to "Kage's Repository" in resonite and spawn out the newest version of my player and edit the websocket slot to have YOUR user ID. Once done save a copy and it should connect
 
 ## Uses Port 1050
