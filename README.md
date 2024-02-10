@@ -5,7 +5,7 @@ A Python Program that sends Current Tidal Song info &amp; name over a websocket 
 ⚠️ This is purely a side project and not maintained fully. Any concerns open up a issue and ill do my best to respond
 
 ## Requirements
-```
+
 Python 3 or newer
 [Python Packages Used]
 asyncio
@@ -20,8 +20,8 @@ os
 requests
 coverpy
 
-```
 ## Usage
-```
+
 Just be sure to have all needed packages installed and feel free to run it in your preffered terminal.
-```
+
+## Uses Port 1050
